@@ -17,8 +17,8 @@ To write a Python program to print a square pattern of numbers using loops.
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060212
-# Name- sakthibalan R
+# Reg.No- 212222060002
+# Name- Aadhithya A
 n = int(input())
 for i in range(1, n + 1):
     for j in range(1, n + 1):
