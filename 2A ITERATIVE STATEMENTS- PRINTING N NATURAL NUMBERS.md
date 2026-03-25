@@ -16,8 +16,8 @@ To create a Python program for printing numbers from M to N (including M and N v
 ---
 ### 🧾 Program
 ```python
-# Reg.No- 212222060212
-# Name- Sakthibalan R
+# Reg.No- 212222060002
+# Name- Aadhithya A
 a = int(input())
 b = int(input())
 for i in range(a, b + 1):
