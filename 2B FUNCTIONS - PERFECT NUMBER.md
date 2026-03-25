@@ -18,8 +18,8 @@ To write a Python program to check if a number is a Prime number using the conce
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060212
-# Name- Sakthibalan R
+# Reg.No- 212222060002
+# Name- Aadhithya A
 def primeNumber(n):
     if n <= 1:
         print("Given number", n, "is not a Prime Number")
