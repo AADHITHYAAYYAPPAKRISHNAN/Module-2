@@ -17,8 +17,8 @@ To write a Python program to calculate the value of the expression `(x + 10) + (
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060212
-# Name- Sakthibalan R
+# Reg.No- 212222060002
+# Name- Aadhithya A
 x = int(input())
 y = int(input())
 z = int(input())
